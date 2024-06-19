@@ -1,1 +1,1 @@
-# projeto-ecommerc-poo
+# projeto-ecommerce-poo
